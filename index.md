@@ -39,3 +39,9 @@ class Category(models.Model):
     def __str__(self):
         return self.title
 ```
+
+Below a list
+
+- [x] List syntax is required
+- [x] This item is complete
+- [ ] This item is not complete
