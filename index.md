@@ -6,8 +6,13 @@ Ejercicio de Markdown
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
+```
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+```
+
 JavaScript Code
-```javascript
+``` javascript
 var express = require('express');
 var router = express.Router();
 
@@ -20,7 +25,7 @@ module.exports = router;
 ```
 
 Python Code
-```python
+``` python
 from django.db import models
 from django.contrib.auth.models import User
 
